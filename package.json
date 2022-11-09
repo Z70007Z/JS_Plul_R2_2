@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "http-server",
+    "serve": "http-server src",
     "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
